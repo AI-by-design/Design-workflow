@@ -76,7 +76,7 @@ Not all models are equal for all tasks. This is what works:
 Opus or Sonnet. Use these for `/design-thinking`, `/plan`, and any session where you're making decisions about structure, approach, or direction. They think better. They also have a tendency to expand scope if you're not precise — keep your prompts tight.
 
 **First-pass UI**
-Gemini gets visual layout right more reliably than the others on a first attempt. If you're starting from scratch on a new screen, worth trying here first.
+Gemini gets visual layout right more reliably than the others on a first attempt. If you're starting from scratch on a new screen, or prototyping worth trying here first.
 
 **Implementation and debugging**
 Sonnet or Codex. Codex is tightly focused — it does what's asked and doesn't add unrequested things. Sonnet is more capable but needs to be kept in line. For debugging specifically, Sonnet's reasoning is useful; for pure implementation of a clear spec, Codex is cleaner.
