@@ -168,9 +168,7 @@ The rules are opinionated. That's the point. They encode decisions so you don't 
 
 ## The philosophy
 
-Most people treat AI tools like a faster version of themselves — throwing screenshots and voice memos at the agent and hoping something comes out.
-
-This workflow is built on a different assumption: **the agent is only as good as the context you give it.**
+This workflow is built on the assumption that **an agent is only as good as the context you give it.**
 
 The design thinking skill ensures the problem is understood before anything is built. `CLAUDE.md` gives every session the full brief. The Cursor rules give the agent a craft foundation it carries into every file. Together, the system builds like someone who has done this before — not vibe-coding, but deliberate product development.
 
@@ -181,12 +179,3 @@ You don't need to be an engineer to use this. You need to be someone who cares a
 ## Contributing
 
 This is a living system. If you find something missing, wrong, or improvable — open a PR or an issue. The whole point of sharing it is to make it better.
-
----
-
-## Acknowledgements
-
-Carmen for sharing her UX/UI skills publicly — looking at them, I spotted what was missing in mine.
-Kyle for his motion design repo — building on it made my work meaningfully better.
-
-That's the point of open source.
